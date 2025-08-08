@@ -1,4 +1,4 @@
-#Download this project from (Download)[]
+# Download this project from [Download](https://www.com)
 ## *MUST HAVE DOCKER INSTALLED*
 ### Run these in terminals:
 ```docker load -i flask-utility-app.tar```
